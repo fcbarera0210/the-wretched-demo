@@ -17,6 +17,7 @@ Una implementación digital profesional del juego de rol en solitario "The Wretc
 the-wretched/
 ├── app/                    # Next.js App Router
 │   ├── globals.css        # Estilos globales (estética terminal retro)
+│   ├── icon.svg           # Favicon del juego
 │   ├── layout.tsx         # Layout raíz
 │   └── page.tsx           # Página principal
 ├── components/            # Componentes React
@@ -63,6 +64,7 @@ La interfaz mantiene una estética **"Cassette Futurism"** / **Terminal Retro**:
 - Colores de fósforo verde sobre fondo negro
 - Efectos de scanlines CRT
 - Alto contraste para legibilidad
+- Favicon personalizado con símbolo de nave espacial
 
 ## 🔊 Audio
 
